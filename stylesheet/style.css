@@ -1,0 +1,75 @@
+html,body{
+    height:100%;
+}
+/*.cover{
+    background: url(../img/cover.jpeg) center no-repeat;
+    background-size:cover;
+    text-align:center;
+    color:black;
+    height:60%;
+    padding-top:2%;
+    width:100%;  
+}*/
+/*body{
+    margin-right:1.5%;
+}*/
+.nav-item{
+    padding-left:3rem;
+}
+.form-inline{
+    padding-left:25rem;
+}
+footer ul li{
+color:white;
+list-style: none;
+font-size:3rem;
+}
+.row{
+    width:100%;
+    padding:4rem 0;
+}
+.locateus{
+    margin-left:70%;
+}
+.maps{
+    color:white;
+}
+nav{
+    position:fixed;
+}
+.container{
+    width:100%;
+}
+footer{
+    height:20rem;
+    background: black;
+}
+.carousel-item img{
+    width:100%;
+    height:100%;
+    align-content: center;
+}
+.carousel-caption{
+    margin-right:50%;
+    font-size:20px;
+    color:black;
+    margin-bottom:10%;
+}
+.menu1{
+    color:white;
+}
+@media screen and (max-width:600px){
+    .carousel-caption{
+        margin-top:-20%;
+        font-size:10px;
+        margin-bottom:-15%;
+    }
+    /*.locateus{
+        margin-left:0;
+        width:3rem;
+    }*/
+    .locateus{
+        margin-left:-10%;
+    }
+}
+
